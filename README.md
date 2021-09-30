@@ -25,7 +25,14 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+  
+This bundle of e-books is specially crafted for  **beginners**.
+Everything from Python basics to the deployment of Machine Learning algorithms to production in one place.
+Become a Machine Learning Superhero  [TODAY!](https://rubikscode.net/ultimate-guide-to-machine-learning-with-python/)
 
+This can be a bit overwhelming, however, if you follow Microsoft conferences and listen to what some of the C# designers are saying and cross-check it with suggestions on the Github page, you can get a nice picture of what is coming next for CFor example, you can check out this Microsoft Build conference from May and you can find a lot of [interesting information](https://www.youtube.com/watch?v=GJ_PaRNDe9E). Here are five new features that we will see in the new version of C#:
+
+Null Reference Exception is one of the worst bugs that you can have in your code. It is just painful. In order to protect from this type of exception, you need a bulletproof design of the application and a lot of checks for parameters of the functions. This new feature should help us with that and make our code more readable and robust.
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
